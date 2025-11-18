@@ -15,7 +15,7 @@ A sleek, user-friendly multi-step form built as a frontend project. This form gu
 
 - Responsive design — form works well on desktop and mobile.  
 - Real-time data flow between steps.  
-- Clean UI / UX with step navigation (next, back).  
+- Clean UI / UX with step navigation 
 
 ---
 
@@ -25,8 +25,5 @@ A sleek, user-friendly multi-step form built as a frontend project. This form gu
 - **JavaScript** – For form logic, state management, and navigation  
 - **Netlify** – Hosting and deployment  
 
-*(If you used a framework like React or built with a bundler, you should mention it here)*
 
----
 
-## 📂 Projec
